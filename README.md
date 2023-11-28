@@ -15,3 +15,9 @@
 ## ch6 [SQL 기본](/DataBase/sql_basic.md)
 
 ## ch7 [SQL 고급](/DataBase/sql_advanced.md)
+
+## ch8 [테이블과 뷰](/DataBase/table_and_view.md)
+
+## ch9 [인덱스](/DataBase/index.md)
+
+## ch10 [스토어드 프로그램](/DataBase/stored_procedure.md)
